@@ -1,0 +1,13 @@
+git add .
+git commit -m ""
+git push heroku master 
+node server.js  
+
+Wäls Aroeira
+Mira Brune
+Cassels Brewing
+Stella Artois
+Guinness
+Stout
+Steam Brew
+London porter
